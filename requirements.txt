@@ -40,7 +40,7 @@ openpyxl==3.1.2
 orjson==3.9.15
 pandas==2.2.1
 passlib==1.7.4
-pg8000==1.30.4
+pg8000==1.31.5
 psycopg2-binary==2.9.9
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
